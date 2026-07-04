@@ -67,8 +67,8 @@ This repository contains the tasks completed during my Data Analytics Internship
 - 📁 [codveda_L1_T2_EDA](./codveda_L1_T2_EDA)
 - 📁 [codveda_L2_T1_Regression](./codveda_L2_T1_Regression)
 - 📁 [codveda_L2_T3_KMeans](./codveda_L2_T3_KMeans)
-- 📁 [codveda_L3_T2_PowerBI](./codveda_L3_T2_PowerBI)
-- 📁 [codveda_L3_T3_Sentiment_Analysis](./codveda_L3_T3_Sentiment_Analysis)
+- 📁 [codveda_Level3_Task2_PowerBI](./codveda_Level3_Task2_PowerBI)
+- 📁 [codveda_Level3_Task3_Sentiment_Analysis](./codveda_Level3_Task3_Sentiment_Analysis)
 
 ## 🎯 Learning Outcomes
 
