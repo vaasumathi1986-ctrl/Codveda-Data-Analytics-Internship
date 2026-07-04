@@ -32,12 +32,34 @@ This repository contains the tasks completed during my Data Analytics Internship
 
 ---
 
+### Level 3
+
+#### Task 2 - Interactive Dashboard using Power BI
+- Imported and cleaned dataset
+- Created interactive dashboard
+- Built Bar Chart, Pie Chart, Line Chart, Card, and Treemap
+- Visualized customer churn insights using Power BI
+
+#### Task 3 - Sentiment Analysis
+- Performed text preprocessing
+- Removed stop words and punctuation
+- Applied sentiment classification
+- Generated Word Cloud
+- Visualized sentiment distribution
+
+---
+
 ## 🛠️ Tools & Technologies
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-learn
+- Power BI
+- NLTK
+- WordCloud
+
+---
 
 ## 📂 Repository Structure
 
@@ -45,14 +67,21 @@ This repository contains the tasks completed during my Data Analytics Internship
 - 📁 [codveda_L1_T2_EDA](./codveda_L1_T2_EDA)
 - 📁 [codveda_L2_T1_Regression](./codveda_L2_T1_Regression)
 - 📁 [codveda_L2_T3_KMeans](./codveda_L2_T3_KMeans)
+- 📁 [codveda_L3_T2_PowerBI](./codveda_L3_T2_PowerBI)
+- 📁 [codveda_L3_T3_Sentiment_Analysis](./codveda_L3_T3_Sentiment_Analysis)
 
 ## 🎯 Learning Outcomes
+
 - Data Cleaning
 - Exploratory Data Analysis
-- Machine Learning
+- Data Visualization
 - Regression Analysis
 - Clustering Techniques
-- Data Visualization
+- Interactive Dashboard Development
+- Natural Language Processing (NLP)
+- Sentiment Analysis
+- Machine Learning
 
-### Author
+
+### 👩‍💻 Author
 **Shanmuga Priya M**
